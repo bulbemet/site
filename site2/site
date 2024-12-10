@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<head>
+<style>
+body {
+background-color: rgb(30, 30, 247);
+background: url(https://i.pinimg.com/736x/21/71/d1/2171d1799f77f34007ea7fe2d86934a7.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+}
+pre {
+color: black;
+
+font-size: 16px;
+}
+
+.img{
+margin: 20px;
+}
+h1 {
+color: black;
+text-align: center;
+}
+.produkti {
+padding: 20px;
+background-color: rgb(140, 140, 145, 0.7);
+background-quality: 30%;
+margin: 20px;
+border-radius: 10px;
+
+}
+.sel {
+padding: 20px;
+background-color: rgb(140, 140, 145, 0.9);
+background-quality: 30%;
+margin: 20px;
+border-radius: 10px;
+}
+.links {
+color: white;
+position: fixed;
+top: 10px;
+right: 20px;
+background-color: rgba(0, 0, 0, 0.6);
+padding: 10px;
+border-radius: 8px;
+
+}
+p {
+color: black;
+background-color: rgb(255, 255, 255, 0.50);
+font-family: verdana;
+font-size: 16px;
+}
+
+</style>
+</head>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <h1>Розведення тарганів в домашніх умовах в промислових маштабах</h1>
+
+
+        <title>Таргани</title>
+
+        <!-- Load external CSS styles -->
+
+
+    </head>
+
+    <body>
+        <div class="links">
+            <a href="#rozvedennya">Вступ</a>
+            <a href="#table">Таблиця</a>
+            <a href="#vukorustanna">Таблиця</a>
+            <a href="#p">Футер</a>
+        </div>
+        <section>
+        <p id="rozvedennya"> Розведення тарганів у домашніх умовах для промислових масштабів може бути прибутковим бізнесом, 
+        особливо якщо ви плануєте використовувати їх як добавку до їжі сусідам які роблять ремонт пізно ввечері.
+        </p> <br>
+        <hr>
+        </section>
+        <p>
+        Використання перемелених тарганів у людських харчових продуктах – це інноваційний напрямок, який активно досліджується. Таргани багаті білками, амінокислотами, вітамінами (зокрема групи В) та мінералами, що робить їх перспективним вмістом у виробництві продуктів харчування.
+        </p>
+        <p>
+        В минулому році Англійські науковці опублікували результати восьмирічних дослідів по використанню харчових добавок на основі перемелених сушених тарганів.
+        Досліди було проведено в лабораторіях семи провідних університетів Великої Британії. Також вони дослідили кількість відсотків білку в кожному виді тараканів.
+        </p>
+        <table class="sel" id="table" border = "10" bgcolor="white">
+
+                <tr>
+                    <th>Порода</th>
+                    <th>Вміст білку</th>
+                    <th>Додаткові властивості</th>
+                </tr>
+
+                <tr>
+                    <td>Дубійські таргани (Blaptica dubia)</td>
+                    <td> 40–43% від сухої маси.</td>
+                    <td>Низький рівень жиру (близько 7%)</td>
+                </tr>
+                <tr>
+                    <td>Мадагаскарські шиплячі таргани (Gromphadorhina portentosa)</td>
+                    <td>38–42% від сухої маси</td>
+                    <td>Більші за розміром, тому підходять для великих рептилій, але розмножуються вільніше</td>
+                </tr>
+                <tr>
+                    <td>Туркменські таргани (Shelfordella tartara)</td>
+                    <td> 51–55% від сухої маси.</td>
+                    <td>Швидке розмноження і висока поживність</td>
+                </tr>
+                <tr>
+                    <td>Аргентинські таргани (Blatta lateralis)</td>
+                    <td>17–21% від сухої маси</td>
+                    <td>Дуже активні і швидко розмножуються</td>
+                </tr>
+                <tr>
+                    <td>Лісові таргани (Eublaberus posticus)</td>
+                    <td>30–34% від сухої маси</td>
+                    <td>Високий вміст енергії, але потребують більших контейнерів для утримання</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p>Отже, рекордсменом по вмісту білку є Туркменський тарган</p>
+        <h2 id="vukorustanna">Де використовувати?</h2>
+        <section class="produkti" >
+        <h3>Протеїнові порошки</h3>
+        <pre>Перемелені таргани можна використовувати для створення порошків, які додають у коктейлі, батончики, каші або супи для підвищення білкової цінності.<br>Найкращий вид: <b>Дубійські таргани (Blaptica dubia)</b> через високий вміст білка та низький рівень жиру.</pre>
+        <h3>Енергетичні батончики</h3>
+        <pre> Включення тарганного білка в енергетичні батончики робить їх більш поживними та багатими на амінокис.<br>Найкращий вид: <b>Туркменські таргани (Shelfordella tartara)</b> завдяки їхній легкій засвоюваності.</pre>
+        <h3> Хлібобулочні вироби</h3>
+        <pre>Додавання тарганного борошна до тіста підвищує вміст білка у хлібі, булочках та крекерах. <br>Найкращий вид: <b>Аргентинські таргани (Blatta lateralis)</b>, бо вони мають м'який смак і добре змішуються з іншими інгредієнтами.</pre>
+        
+        </section>
+        <img class="img" src="https://i.pinimg.com/736x/f3/5f/e7/f35fe72de83dc6d6037110f55783400b.jpg" alt="targan"> <br>
+
+
+
+    <section class="sel">
+        <h2>Залишились питання?</h2>
+        <form action="get">
+            <label for="fname">ПІБ:</label><br>
+            <input type="text" id="fname" name="fname" value="Боба Абоба Батькович"><br>
+            <label for="question">Питання:</label><br>
+            <input type="text" id="question" name="question" value="Ваше питання"><br><br>
+            <input type="submit" value="Надіслати">
+        </form>
+    </section>
+    <footer id="p" >
+        <p>Цей сайт не закликає до дій. Ви відповідаєте за свої дії</p>
+    </footer>
+    </body>
+
+</html>
